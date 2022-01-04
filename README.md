@@ -12,7 +12,7 @@ Este repositório é a entrega do Desafio Go do módulo Docker do curso FullCycl
 
 Segue abaixo o link da imagem publicada no Docker Hub:
 
-`https://hub.docker.com/repository/docker/eurafa/codeeducation`
+https://hub.docker.com/repository/docker/eurafa/codeeducation
 
 ## Executando a imagem
 
